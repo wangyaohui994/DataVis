@@ -24,3 +24,10 @@ In chrome-based browsers, you can simply use Ctrl+J to open the browser console,
 Qunchao Huang;
 Qi Liu ;
 Yaohui Wang;
+
+## About CSV files
+cars_cleaned.csv and cars_information_cleaned.csv 
+These two files contain data that has been cleaned using two separate Python files.
+clean_and_impution.py -> cars_information_cleaned.csv;
+
+clean_cars.py -> cars_cleaned.csv
