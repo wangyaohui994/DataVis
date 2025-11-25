@@ -21,6 +21,6 @@ In chrome-based browsers, you can simply use Ctrl+J to open the browser console,
 
 
 ## Group members
-Qunchao Huang
-Qi Liu 
-Yaohui Wang
+Qunchao Huang;
+Qi Liu ;
+Yaohui Wang;
