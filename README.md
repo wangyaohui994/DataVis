@@ -18,3 +18,9 @@ You should then be able to see your website at [http://localhost:8000](http://lo
 ## Debugging: 
 Feel free to make extensive use of your browser's development tools! 
 In chrome-based browsers, you can simply use Ctrl+J to open the browser console, which will show all the `console.log` and similar that you write in the code. 
+
+
+## Group members
+Qunchao Huang
+Qi Liu 
+Yaohui Wang

@@ -1,5 +1,21 @@
 body {
-    height: 100%;
-}
+    font-family: sans-serif;
+  }
+  #details {
+    margin-top: 20px;
+    padding: 12px;
+    border: 1px solid #444;
+    width: 350px;
+    background: #f7f7f7;
+  }
+  .circle {
+    opacity: 0.75;
+    cursor: pointer;
+  }
+  .circle:hover {
+    stroke: black;
+    stroke-width: 1.5px;
+  }
+  
 
 /* YOUR CSS CODE GOES HERE */
